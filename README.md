@@ -4,10 +4,10 @@
 
 <img width="858" height="521" alt="image" src="https://github.com/user-attachments/assets/5d27a97b-b52f-464f-bc27-05beee56b992" />
 
-#작동원리
+# 작동원리
 <img width="1246" height="684" alt="image" src="https://github.com/user-attachments/assets/b5906a8d-56b9-4650-b1fb-1f319db34208" />
 
-#구성도
+# 구성도
 <img width="1188" height="637" alt="image" src="https://github.com/user-attachments/assets/a2a2af1a-5191-4f34-988c-4580cb0cf6ec" />
 
 #
@@ -33,7 +33,7 @@ opencv로 영상처리를 구현하여
 
 <img width="846" height="503" alt="image" src="https://github.com/user-attachments/assets/358754d3-c0db-4be5-95f4-200d4732576b" />
 
-#활동성찰
+# 활동성찰
 신발을 꺼내기 위한 모터 토크의 계산과 속도에 대한 부분을 정밀하게 생각하지 않고 제작을 하여서 모터 구동에 대한 부분에서 아쉬움이 있었고, 하드웨어의 정교함의 중요성을 느껴서, 이러한 제작활동에 있어서 설계에 대한 부분이 정말로 중요하다는 것을 느끼고, 3D 모델링을 통해 설계한 뒤 진행 해야 함을 알 수 있었습니다. 
 팀원과의 협력을 통하여 자동화 신발장을 만드는 과정에서 창의적인 공학설계 과정에 대해서 경험할 수 있었고, 좋은 아이디어를 찾기 위한 방법과 자율적으로 필요한 지식을 습득하는 방법을 배울 수 있었습니다.
 융합적인 기술을 신발장에 적용함으로써 4차산업혁명 기술에 대해 경험해보고, 만들어 볼 수 있어서 좋았습니다.
